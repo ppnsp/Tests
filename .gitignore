@@ -1,0 +1,15 @@
+.vs/
+bin/
+obj/
+packages/
+BundleArtifacts/
+PublishProfiles/
+PrivateData.cs
+_pkginfo.txt
+
+*.appx
+*.pfx
+*.nuget.props
+*.nuget.targets
+*.user
+project.lock.json
